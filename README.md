@@ -19,9 +19,6 @@ To run the Theme Calculator locally, follow these steps:
 
 Clone this repository to your local machine:
 
-git clone https://github.com/your_username/theme-calculator.git
-Navigate to the project directory:
-
 cd theme-calculator
 Open the index.html file in your web browser.
 
